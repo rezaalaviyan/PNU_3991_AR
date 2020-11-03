@@ -1,6 +1,6 @@
 # PNU_3991_AR
 ---------
-# سحر زینی وند
+# سید رضا علویان زو
 - [PNU_3991_AR](https://github.com/rezaalaviyan/PNU_3991_AR)
 - [Resume](https://rezaalaviyan.github.io) 
 - [SOP](https://rezaalaviyan.github.io/SOP/)
