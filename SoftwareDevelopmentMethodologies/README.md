@@ -14,7 +14,7 @@
 </tr>
 
 <tr>
-<td colspan="7"   align="center">سرگروه تیم:سحرزینی وندمقدم</td>
+<td colspan="7"   align="center">سرگروه تیم:مشخص نیست</td>
 </tr>
 
 <tr>
@@ -27,10 +27,10 @@
  </tr>
  
  <tr>
- <td  align="center">https://github.com/saharzeinivand/PNU_3991_AR</td>
- <td  align="center">https://saharzeinivand.github.io/SOP/</td>
- <td  align="center">https://saharzeinivand.github.io/Resume/</td>
- <td  align="center">سحرزینی وندمقدم</td>
+ <td  align="center">https://github.com/rezaalaviyan/PNU_3991_AR</td>
+ <td  align="center">https://rezaalaviyan.github.io/SOP/</td>
+ <td  align="center">https://rezaalaviyan.github.io/Resume/</td>
+ <td  align="center">سید رضا علویان زو</td>
  <td  align="center">980173622</td>
  <td align="center">1</td>
  </tr>
@@ -45,30 +45,30 @@
  </tr>
  
  <tr>
- <td  align="center">https://github.com/SAMashiyane/PNU_3991_AR</td> 
- <td  align="center">https://samashiyane.github.io/SOP/</td>
- <td  align="center">https://samashiyane.github.io/</td>
- <td  align="center">سیدعلی محترمی</td>
- <td  align="center">980199610</td>
+ <td  align="center"></td> 
+ <td  align="center"></td>
+ <td  align="center"></td>
+ <td  align="center"></td>
+ <td  align="center"></td>
  <td align="center">3</td>
  </tr>
  
  <tr>
- <td  align="center">http://github.com/alirezasaeidipour/PNU_3991_AR</td>
- <td  align="center">http://alirezasaeidipour.github.io/SOP</td>
- <td  align="center">https://alirezasaeidipour.github.io/</td>
- <td  align="center">علیرضا سعیدی پور</td>
- <td  align="center">970208157</td>
+ <td  align="center"></td>
+ <td  align="center"></td>
+ <td  align="center"></td>
+ <td  align="center"></td>
+ <td  align="center"></td>
  <td align="center">4</td>
  </tr>
  
  <tr>
  <tr>
- <th  align="center">https://github.com/samere-zare/PNU_3991_AR</th>
- <td  align="center">https://samere-zare.github.io/SOP/</td>
- <td  align="center">https://samere-zare.github.io/Resume/</td>
- <td  align="center">سامره زارع</td>
- <td  align="center">980218785</td>
+ <th  align="center"></th>
+ <td  align="center"></td>
+ <td  align="center"></td>
+ <td  align="center"></td>
+ <td  align="center"></td>
  <td align="center">5</td>
  </tr> 
  </tr>
