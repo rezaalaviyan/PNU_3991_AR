@@ -39,8 +39,8 @@
  <td  align="center"></td> 
  <td  align="center"></td>
  <td  align="center"></td>
- <td  align="center">علی مهرائی</td>
- <td  align="center">949513880</td>
+ <td  align="center"></td>
+ <td  align="center"></td>
  <td align="center">2</td>
  </tr>
  
