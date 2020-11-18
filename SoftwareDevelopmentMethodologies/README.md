@@ -6,7 +6,7 @@
 
   
 <tr>
-<td colspan="7"  align="center">نام درس :متدولوژی ایجاد نرم افزار</td>
+<td colspan="7"  align="center">نام درس :متدولوژی ایجاد نرم افزار </td>
 </tr>
 
 <tr>
@@ -14,7 +14,7 @@
 </tr>
 
 <tr>
-<td colspan="7"   align="center">سرگروه تیم:مشخص نیست</td>
+<td colspan="7"   align="center">سرگروه تیم:علي مهرايي</td>
 </tr>
 
 <tr>
@@ -36,10 +36,10 @@
  </tr>
  
  <tr>
- <td  align="center"></td> 
- <td  align="center"></td>
- <td  align="center"></td>
- <td  align="center"></td>
+ <td  align="center">https://github.com/AliMehraei/PNU_3991_AR</td> 
+ <td  align="center">https://github.com/alimehraei</td>
+ <td  align="center">https://rezaalaviyan.github.io/Resume</td>
+ <td  align="center">علي مهرايي</td>
  <td  align="center"></td>
  <td align="center">2</td>
  </tr>
