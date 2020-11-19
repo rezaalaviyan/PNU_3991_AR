@@ -38,7 +38,7 @@
  <tr>
  <td  align="center">https://github.com/AliMehraei/PNU_3991_AR</td> 
  <td  align="center">https://github.com/alimehraei</td>
- <td  align="center">https://rezaalaviyan.github.io/Resume</td>
+ <td  align="center">https://alimehraei.github.io/</td>
  <td  align="center">علي مهرايي</td>
  <td  align="center"></td>
  <td align="center">2</td>
