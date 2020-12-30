@@ -1,5 +1,5 @@
 # سید رضا علویان زو
-- [شرکت در جلسات همخوانی در اسکایپ](https://join.skype.com/iHf6vsIY8xRm) 
+- [شرکت در جلسات  پروژه همخوانی در اسکایپ](https://join.skype.com/iHf6vsIY8xRm) 
 - [اکانت در سایت همخوانی Crowdin](https://crowdin.com/profile/rezaalaviyan) 
 
 ## گروه مهندسی نرم افزار
