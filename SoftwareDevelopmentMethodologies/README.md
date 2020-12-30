@@ -1,5 +1,5 @@
 # سید رضا علویان زو
-- [Presentation Reading CHAPTER 10 Adaptation  of Presentation  to Culture ](https://github.com/rezaalaviyan/PNU_3991_AR/edit/main/SoftwareDevelopmentMethodologies)
+- [Presentation Reading CHAPTER 10 Adaptation  of Presentation  to Culture ](https://drive.google.com/file/d/1YUkmTFJt1XANNOsUGu1EXskf2eYJpNJP/view?usp=sharing)
 - [Presentation CHAPTER 20](https://github.com/rezaalaviyan/PNU_3991_AR/edit/main/SoftwareDevelopmentMethodologies) 
 - [ویدیوساخته شده توسط من برای نصب پروژه](https://drive.google.com/file/d/1RyXxbp-mbN7FJBrGRf5QXjfMsKtPZ3N_/view?usp=drivesdk) 
 
